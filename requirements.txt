@@ -7,3 +7,4 @@ Pillow==10.3.0           # For image loading and display in Streamlit
 matplotlib==3.8.4       # For data visualization (optional)
 seaborn==0.13.2         # For statistical plots (optional)
 gunicorn
+lightgbm
