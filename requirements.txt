@@ -1,0 +1,8 @@
+joblib ==1.3.2           # For saving and loading models
+streamlit==1.34.0       # For building the interactive web app
+pandas==2.2.2           # For data manipulation and DataFrame support
+numpy==1.26.4           # For numerical computations
+scikit-learn==1.4.2     # For machine learning modeling and pipeline
+Pillow==10.3.0           # For image loading and display in Streamlit
+matplotlib==3.8.4       # For data visualization (optional)
+seaborn==0.13.2         # For statistical plots (optional)
